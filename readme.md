@@ -1,7 +1,5 @@
 # mad_data
 
-![Drinking red wine]("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2018%2F05%2F27114256%2Fwine-gettyimages-160836693_1_0.jpg")
-
 ## Project
 This project uses the principles of ETL to aggregate data from various sources to show relationships between alcohol consumption, traffic related deaths and wine reviews from [Winemag](https://www.winemag.com/).
 
