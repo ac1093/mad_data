@@ -1,0 +1,22 @@
+Extract:	
+
+	DataSets:
+	
+		- Alcohol Consumption per Capita by Country
+			https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption_per_capita
+			https://data.worldbank.org/indicator/SH.ALC.PCAP.LI
+
+		- Wine Production by Country
+			https://en.wikipedia.org/wiki/List_of_wine-producing_regions
+			
+		- Traffic Related Deaths by Country
+			https://en.wikipedia.org/wiki/List_of_countries_by_traffic-related_death_rate
+
+	notes: country is common key between tables	
+				
+Transform:
+
+	TBD
+
+Load:
+	Relational Database
