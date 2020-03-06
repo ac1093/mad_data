@@ -19,7 +19,11 @@ Extract:
 				
 Transform:
 
-	TBD
+	Remove commas from number formatting
+	Consistent country names
+	Ignore flag icons from wikipedia scrape
+	
 
 Load:
 	Relational Database
+	Country as key
