@@ -12,6 +12,9 @@ Extract:
 		- Traffic Related Deaths by Country
 			https://en.wikipedia.org/wiki/List_of_countries_by_traffic-related_death_rate
 
+		- Wine reviews
+			https://www.kaggle.com/zynicide/wine-reviews#winemag-data-130k-v2.csv
+
 	notes: country is common key between tables	
 				
 Transform:
