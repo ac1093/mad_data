@@ -11,9 +11,6 @@ This project uses the principles of ETL to aggregate data from various sources t
 ## Data Sets
 
 ### Alcohol Consumption per Capita by Country
-https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption_per_capita
-
-https://data.worldbank.org/indicator/SH.ALC.PCAP.LI
 
 http://apps.who.int/gho/data/node.main.A1036
 
